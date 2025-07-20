@@ -31,8 +31,8 @@ Herramienta avanzada de seguridad para pruebas de penetración en redes locales 
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/M-Societyy/DNS-ARP-Spoofer-Pro.git
-   cd DNS-ARP-Spoofer-Pro
+   git clone https://github.com/M-Societyy/mspoffer.git
+   cd mspoffer
    ```
 
 2. Instala las dependencias:
@@ -46,8 +46,8 @@ Herramienta avanzada de seguridad para pruebas de penetración en redes locales 
    ```
 
 3. Ejecuta la aplicación:
-   ```bash
-   python spoofer_pro.py
+   ```python
+   python3 mspoffer.py
    ```
 
 ## 🖥️ Uso Básico
